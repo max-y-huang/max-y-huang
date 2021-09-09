@@ -4,4 +4,4 @@
 
 **Feel free to look around.**
 
-[https://max-y-huang.github.io](https://max-y-huang.github.io)
+[https://maxhuang.dev](https://maxhuang.dev)
